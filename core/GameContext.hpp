@@ -4,7 +4,7 @@
 #include <memory>
 #include <string>
 #include "../resources/ResourceManager.hpp"
-#include "../states/GameState.hpp"
+#include <states/GameState.hpp>
 
 class GameContext {
 public:

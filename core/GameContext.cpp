@@ -1,10 +1,10 @@
 #include "GameContext.hpp"
-#include "../states/DisclaimerGameState.hpp"
-#include "../states/LogosGameState.hpp"
-#include "../states/TeamLogoGameState.hpp"
-#include "../states/TitleGameState.hpp"
-#include "../states/GameplayState.hpp"
-#include "../input/InputManager.hpp"
+#include <states/DisclaimerGameState.hpp>
+#include <states/LogosGameState.hpp>
+#include <states/TeamLogoGameState.hpp>
+#include <states/TitleGameState.hpp>
+#include <states/GameplayState.hpp>
+#include <input/InputManager.hpp>
 #include <iostream>
 #include <SDL2/SDL.h>
 
